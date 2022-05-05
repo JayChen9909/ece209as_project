@@ -1,6 +1,6 @@
 # ece209as_project
-Zichao Xian, Yuanlong Chen, Boya Ouyan.  
-This is repository template for UCLA ECE209AS projects.
+## Zichao Xian, Yuanlong Chen, Boya Ouyan.  
+### This is a group repository for UCLA ECE209AS projects.
 
 Use the folders as follows:
 
