@@ -100,8 +100,8 @@ List software that you have identified and plan to use. Provide references (with
 List references corresponding to citations in your text above. For papers please include full citation and URL. For datasets and software include name and URL.
 
 [1] Zooming Slow-Mo: Fast and Accurate One-Stage Space-Time Video Super-Resolution
-Xiaoyu Xiang, Tapeng Tian, Yulun Zhang, Yun Fu, Jan P. Allebach, Chenliang Xu
-Paper: https://arxiv.org/pdf/2002.11616.pdf
+Xiaoyu Xiang, Tapeng Tian, Yulun Zhang, Yun Fu, Jan P. Allebach, Chenliang Xu  
+Paper: https://arxiv.org/pdf/2002.11616.pdf  
 Code: https://github.com/Mukosame/Zooming-Slow-Mo-CVPR-2020
 
 [2] Dual-Stream Fusion Network for Spatiotemporal Video Super-Resolution
