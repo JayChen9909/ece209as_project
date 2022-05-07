@@ -165,38 +165,31 @@ Paper: https://xueyangfu.github.io/paper/2020/MM.pdf
 
 [15] Realtime video super-resolution with spatio-temporal networks and motion-compensation.
 Jose Caballero, Christian Ledig, Aitken Andrew, Acosta Alejandro, Johannes Totz, Zehan Wang, and Wenzhe Shi  
-Paper: 
-Code: 
+Paper: https://openaccess.thecvf.com/content_cvpr_2017/papers/Caballero_Real-Time_Video_Super-Resolution_CVPR_2017_paper.pdf
 
 [16] Detail-revealing deep video super-resolution. 
 Xin Tao, Hongyun Gao, Renjie Liao, Jue Wang, and Jiaya Jia  
-Paper: 
-Code: 
+Paper: https://openaccess.thecvf.com/content_ICCV_2017/papers/Tao_Detail-Revealing_Deep_Video_ICCV_2017_paper.pdf
 
 [17] Video enhancement with task-oriented flow.
 Tianfan Xue, Baian Chen, Jiajun Wu, Donglai Wei, and William T Freeman  
-Paper: 
-Code: 
+Paper: https://arxiv.org/pdf/1711.09078.pdf
 
 [18] Frame-recurrent video super-resolution. 
 Mehdi S M Sajjadi, Raviteja Vemulapalli, and Matthew Brown  
-Paper: 
-Code: 
+Paper: https://openaccess.thecvf.com/content_cvpr_2018/papers/Sajjadi_Frame-Recurrent_Video_Super-Resolution_CVPR_2018_paper.pdf
 
 [19] Deep video super-resolution network using dynamic upsampling filters without explicit motion compensation.
 Younghyun Jo, Seoung Wug Oh, Jaeyeon Kang, and Seon Joo Kim  
-Paper: 
-Code: 
+Paper: https://openaccess.thecvf.com/content_cvpr_2018/papers/Jo_Deep_Video_Super-Resolution_CVPR_2018_paper.pdf
 
 [20] Recurrent back-projection network for video superresolution.
 Muhammad Haris, Greg Shakhnarovich, and Norimichi Ukita  
-Paper: 
-Code: 
+Paper: https://openaccess.thecvf.com/content_CVPR_2019/papers/Haris_Recurrent_Back-Projection_Network_for_Video_Super-Resolution_CVPR_2019_paper.pdf
 
 [21] EDVR: Video restoration with enhanced deformable convolutional networks.
 Xintao Wang, Kelvin C.K. Chan, Ke Yu, Chao Dong, and Chen Change Loy  
-Paper: 
-Code: 
+Paper: https://openaccess.thecvf.com/content_CVPRW_2019/papers/NTIRE/Wang_EDVR_Video_Restoration_With_Enhanced_Deformable_Convolutional_Networks_CVPRW_2019_paper.pdf
 
 [22] MuCAN: Multi-correspondence aggregation network for video super-resolution. 
 Wenbo Li, Xin Tao, Taian Guo, Lu Qi, Jiangbo Lu, and Jiaya Jia  
@@ -205,28 +198,23 @@ Code:
 
 [23] Progressive fusion video super-resolution network via exploiting non-local spatio-temporal correlations.
 Peng Yi, Zhongyuan Wang, Kui Jiang, Junjun Jiang, and Jiayi Ma  
-Paper: 
-Code: 
+Paper: https://openaccess.thecvf.com/content_ICCV_2019/papers/Yi_Progressive_Fusion_Video_Super-Resolution_Network_via_Exploiting_Non-Local_Spatio-Temporal_Correlations_ICCV_2019_paper.pdf
 
 [24] Efficient video super-resolution through recurrent latent space propagation.
 Dario Fuoli, Shuhang Gu, and Radu Timofte  
-Paper: 
-Code: 
+Paper: https://ieeexplore.ieee.org/document/9022159
 
 [25] Video super-resolution with temporal group attention.
 Takashi Isobe, Songjiang Li, Xu Jia, Shanxin Yuan, Gregory Slabaugh, Chunjing Xu, Ya-Li Li, Shengjin Wang, and Qi Tian  
-Paper: 
-Code: 
+Paper: https://openaccess.thecvf.com/content_CVPR_2020/papers/Isobe_Video_Super-Resolution_With_Temporal_Group_Attention_CVPR_2020_paper.pdf
 
 [26] Video super-resolution with recurrent structure-detail network.
 Takashi Isobe, Xu Jia, Shuhang Gu, Songjiang Li, Shengjin Wang, and Qi Tian  
-Paper: 
-Code: 
+Paper: https://arxiv.org/pdf/2008.00455.pdf
 
 [27] Revisiting temporal modeling for video super-resolution. 
 Takashi Isobe, Fang Zhu, and Shengjin Wang  
-Paper: 
-Code: 
+Paper: https://arxiv.org/pdf/2008.05765.pdf
 
 [28] Seungjun Nah, Sungyong Baik, Seokil Hong, Gyeongsik Moon, Sanghyun Son, Radu Timofte, and Kyoung Mu Lee. NTIRE 2019 challenge on video deblurring and superresolution: Dataset and study. In CVPRW, 2019. 6, 7, 10, 11
 
