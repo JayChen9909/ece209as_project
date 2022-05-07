@@ -4,7 +4,7 @@
 
 Repository contains:
 
-* doc/ for website content
-* software/ for code used in your project
-* data/ for data data used in your project
+* [Docs](docs)/ for website content
+* [Software](software)/ for code used in your project
+* [Data](data) for data data used in your project
 
