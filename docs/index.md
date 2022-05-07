@@ -5,8 +5,8 @@ Provide a brief overview of the project objhectives, approach, and results.
 # Team
 
 * Name of team member \#1 Yuanlong Chen (805846962)
-* Name of team member \#2 Zichao Xian
-* Name of team member \#3 Boya Ouyang
+* Name of team member \#2 Zichao Xian (205626091)
+* Name of team member \#3 Boya Ouyang (005037574)
 
 # Required Submissions
 
