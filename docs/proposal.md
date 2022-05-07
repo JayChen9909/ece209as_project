@@ -105,94 +105,128 @@ Paper: https://arxiv.org/pdf/2002.11616.pdf
 Code: https://github.com/Mukosame/Zooming-Slow-Mo-CVPR-2020
 
 [2] Dual-Stream Fusion Network for Spatiotemporal Video Super-Resolution
-Min-Yuan Tseng, Yen-Chung Chen, Yi-Lun Lee, Wei-Sheng Lai, Yi-Hsuan Tsai, Wei-Chen Chiu
-Paper 
-Code
+Min-Yuan Tseng, Yen-Chung Chen, Yi-Lun Lee, Wei-Sheng Lai, Yi-Hsuan Tsai, Wei-Chen Chiu  
+Paper: https://openaccess.thecvf.com/content/WACV2021/papers/Tseng_Dual-Stream_Fusion_Network_for_Spatiotemporal_Video_Super-Resolution_WACV_2021_paper.pdf  
+Code: https://github.com/TMYuan/Dual-Stream-Fusion-Network
 
 [3] Learning for Unconstrained Space-Time Video Super-Resolution
 Zhihao Shi, Chengqi Li, Linhui Dai, Xiaohong Liu, Jun Chen, Timothy N. Davidson
-ArXiv
+Paper: https://arxiv.org/pdf/2102.13011.pdf
+
 [4] Temporal Modulation Network for Controllable Space-Time Video Super-Resolution
-Gang Xu, Jun Xu, Zhen Li, Liang Wang, Xing Sun, Ming-Ming Cheng
-ArXiv Code
+Gang Xu, Jun Xu, Zhen Li, Liang Wang, Xing Sun, Ming-Ming Cheng  
+Paper: https://arxiv.org/pdf/2104.10642.pdf  
+Code: https://github.com/CS-GangXu/TMNet
  
 [5] NTIRE 2021 Challenge on Video Super-Resolution
-Sanghyun Son, Suyoung Lee, Seungjun Nah, Radu Timofte, Kyoung Mu Lee
-ArXiv
+Sanghyun Son, Suyoung Lee, Seungjun Nah, Radu Timofte, Kyoung Mu Lee  
+Paper: https://arxiv.org/pdf/2104.14852.pdf  
 
 [6] Efficient Space-time Video Super Resolution using Low-Resolution Flow and Mask Upsampling
-Saikat Dutta, Nisarg A. Shah, Anurag Mittal
-ArXiv Paper Code
+Saikat Dutta, Nisarg A. Shah, Anurag Mittal  
+Paper: https://arxiv.org/pdf/2104.05778.pdf  
+Code: https://github.com/saikatdutta/FMU_STSR
 
 [7] Space-time super-resolution with motion-perceptive deformable alignment
-Zhuojun Cai, Xiang Tian, Ze Chen, Yaowu Chen
-Paper
+Zhuojun Cai, Xiang Tian, Ze Chen, Yaowu Chen  
+Paper: https://www.spiedigitallibrary.org/journals/journal-of-electronic-imaging/volume-30/issue-3/033020/Space-time-super-resolution-with-motion-perceptive-deformable-alignment/10.1117/1.JEI.30.3.033020.short?SSO=1
 
 [8] STSRNet: Deep Joint Space-Time Super-Resolution for Vector Field Visualization
-Yifei An, Han-Wei Shen, Guihua Shan, Guan Li, Jun Liu
-Paper 
+Yifei An, Han-Wei Shen, Guihua Shan, Guan Li, Jun Liu  
+Paper: https://ieeexplore.ieee.org/abstract/document/9488227
 
 [9] MEGAN: Memory Enhanced Graph Attention Network for Space-Time Video Super-Resolution
-Chenyu You, Lianyi Han, Aosong Feng, Ruihan Zhao, Hui Tang, Wei Fan
-ArXiv
+Chenyu You, Lianyi Han, Aosong Feng, Ruihan Zhao, Hui Tang, Wei Fan  
+Paper: https://arxiv.org/pdf/2110.15327.pdf
+
 [10] FISR: Deep Joint Frame Interpolation and Super-Resolution with a Multi-Scale Temporal Loss
-Soo Ye Kim, Jihyong Oh, Munchurl Kim
-Paper Code 
+Soo Ye Kim, Jihyong Oh, Munchurl Kim  
+Paper: https://ojs.aaai.org/index.php/AAAI/article/view/6788  
+Code: https://github.com/JihyongOh/FISR
 
 [11] Space-Time-Aware Multi-Resolution Video Enhancement
-Muhammad Haris, Greg Shakhnarovich, Norimichi Ukita
-Paper Project Page Code
+Muhammad Haris, Greg Shakhnarovich, Norimichi Ukita  
+Paper: https://alterzero.github.io/projects/star_cvpr2020.pdf  
+Code: https://github.com/alterzero/STARnet
 
 [12] Zooming Slow-Mo: Fast and Accurate One-Stage Space-Time Video Super-Resolution
-Xiaoyu Xiang, Yapeng Tian, Yulun Zhang, Yun Fu, Jan P. Allebach+, Chenliang Xu
-Paper Code 
+Xiaoyu Xiang, Yapeng Tian, Yulun Zhang, Yun Fu, Jan P. Allebach+, Chenliang Xu  
+Paper: https://arxiv.org/pdf/2002.11616.pdf  
+Code: https://github.com/Mukosame/Zooming-Slow-Mo-CVPR-2020
 
 [13] Deep Space-Time Video Upsampling Networks
-Jaeyeon Kang, Younghyun Jo, Seoung Wug Oh, Peter Vajda, Seon Joo Kim
-Paper Code
+Jaeyeon Kang, Younghyun Jo, Seoung Wug Oh, Peter Vajda, Seon Joo Kim  
+Paper: https://arxiv.org/pdf/2004.02432.pdf  
+Code: https://github.com/JaeYeonKang/STVUN-Pytorch
 
 [14] Space-Time Video Super-Resolution Using Temporal Profiles
-Zeyu Xiao, Zhiwei Xiong , Xueyang Fu, Dong Liu, Zhengjun Zha
-Paper
+Zeyu Xiao, Zhiwei Xiong , Xueyang Fu, Dong Liu, Zhengjun Zha  
+Paper: https://xueyangfu.github.io/paper/2020/MM.pdf
 
 [15] Realtime video super-resolution with spatio-temporal networks and motion-compensation.
-Jose Caballero, Christian Ledig, Aitken Andrew, Acosta Alejandro, Johannes Totz, Zehan Wang, and Wenzhe Shi.
+Jose Caballero, Christian Ledig, Aitken Andrew, Acosta Alejandro, Johannes Totz, Zehan Wang, and Wenzhe Shi  
+Paper: 
+Code: 
 
 [16] Detail-revealing deep video super-resolution. 
-Xin Tao, Hongyun Gao, Renjie Liao, Jue Wang, and Jiaya Jia. 
+Xin Tao, Hongyun Gao, Renjie Liao, Jue Wang, and Jiaya Jia  
+Paper: 
+Code: 
 
 [17] Video enhancement with task-oriented flow.
-Tianfan Xue, Baian Chen, Jiajun Wu, Donglai Wei, and William T Freeman. 
+Tianfan Xue, Baian Chen, Jiajun Wu, Donglai Wei, and William T Freeman  
+Paper: 
+Code: 
 
 [18] Frame-recurrent video super-resolution. 
-Mehdi S M Sajjadi, Raviteja Vemulapalli, and Matthew Brown.
+Mehdi S M Sajjadi, Raviteja Vemulapalli, and Matthew Brown  
+Paper: 
+Code: 
 
 [19] Deep video super-resolution network using dynamic upsampling filters without explicit motion compensation.
-Younghyun Jo, Seoung Wug Oh, Jaeyeon Kang, and Seon Joo Kim.
+Younghyun Jo, Seoung Wug Oh, Jaeyeon Kang, and Seon Joo Kim  
+Paper: 
+Code: 
 
 [20] Recurrent back-projection network for video superresolution.
-Muhammad Haris, Greg Shakhnarovich, and Norimichi Ukita. 
+Muhammad Haris, Greg Shakhnarovich, and Norimichi Ukita  
+Paper: 
+Code: 
 
 [21] EDVR: Video restoration with enhanced deformable convolutional networks.
-Xintao Wang, Kelvin C.K. Chan, Ke Yu, Chao Dong, and Chen Change Loy.
+Xintao Wang, Kelvin C.K. Chan, Ke Yu, Chao Dong, and Chen Change Loy  
+Paper: 
+Code: 
 
 [22] MuCAN: Multi-correspondence aggregation network for video super-resolution. 
-Wenbo Li, Xin Tao, Taian Guo, Lu Qi, Jiangbo Lu, and Jiaya Jia. 
+Wenbo Li, Xin Tao, Taian Guo, Lu Qi, Jiangbo Lu, and Jiaya Jia  
+Paper: 
+Code: 
 
 [23] Progressive fusion video super-resolution network via exploiting non-local spatio-temporal correlations.
-Peng Yi, Zhongyuan Wang, Kui Jiang, Junjun Jiang, and Jiayi Ma. 
+Peng Yi, Zhongyuan Wang, Kui Jiang, Junjun Jiang, and Jiayi Ma  
+Paper: 
+Code: 
 
 [24] Efficient video super-resolution through recurrent latent space propagation.
-Dario Fuoli, Shuhang Gu, and Radu Timofte. 
+Dario Fuoli, Shuhang Gu, and Radu Timofte  
+Paper: 
+Code: 
 
 [25] Video super-resolution with temporal group attention.
-Takashi Isobe, Songjiang Li, Xu Jia, Shanxin Yuan, Gregory Slabaugh, Chunjing Xu, Ya-Li Li, Shengjin Wang, and Qi Tian.
+Takashi Isobe, Songjiang Li, Xu Jia, Shanxin Yuan, Gregory Slabaugh, Chunjing Xu, Ya-Li Li, Shengjin Wang, and Qi Tian  
+Paper: 
+Code: 
 
 [26] Video super-resolution with recurrent structure-detail network.
-Takashi Isobe, Xu Jia, Shuhang Gu, Songjiang Li, Shengjin Wang, and Qi Tian. 
+Takashi Isobe, Xu Jia, Shuhang Gu, Songjiang Li, Shengjin Wang, and Qi Tian  
+Paper: 
+Code: 
 
 [27] Revisiting temporal modeling for video super-resolution. 
-Takashi Isobe, Fang Zhu, and Shengjin Wang. 
+Takashi Isobe, Fang Zhu, and Shengjin Wang  
+Paper: 
+Code: 
 
 [28] Seungjun Nah, Sungyong Baik, Seokil Hong, Gyeongsik Moon, Sanghyun Son, Radu Timofte, and Kyoung Mu Lee. NTIRE 2019 challenge on video deblurring and superresolution: Dataset and study. In CVPRW, 2019. 6, 7, 10, 11
 
