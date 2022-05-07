@@ -83,10 +83,10 @@ List the key papers that you have identified relating to your project idea, and 
 List datasets that you have identified and plan to use. Provide references (with full citation in the References section below).
 
 For training:
-REDS [28], Vimeo-90K [29]
+REDS [28], Vimeo-90K [17]
 
 For testing:
-REDS4 [28], Vid4 [30], UDM10 [31], Vimeo-90K-T [29]
+REDS4 [28], Vid4 [30], UDM10 [23], Vimeo-90K-T [17]
 
 For validation:
 REDSval4 [28]
@@ -216,11 +216,10 @@ Paper: https://arxiv.org/pdf/2008.00455.pdf
 Takashi Isobe, Fang Zhu, and Shengjin Wang  
 Paper: https://arxiv.org/pdf/2008.05765.pdf
 
-[28] Seungjun Nah, Sungyong Baik, Seokil Hong, Gyeongsik Moon, Sanghyun Son, Radu Timofte, and Kyoung Mu Lee. NTIRE 2019 challenge on video deblurring and superresolution: Dataset and study. In CVPRW, 2019. 6, 7, 10, 11
+[28] NTIRE 2019 challenge on video deblurring and superresolution: Dataset and study.
+Seungjun Nah, Sungyong Baik, Seokil Hong, Gyeongsik Moon, Sanghyun Son, Radu Timofte, and Kyoung Mu Lee.  
+Paper: https://openaccess.thecvf.com/content_CVPRW_2019/papers/NTIRE/Nah_NTIRE_2019_Challenge_on_Video_Super-Resolution_Methods_and_Results_CVPRW_2019_paper.pdf
 
-[29] Tianfan Xue, Baian Chen, Jiajun Wu, Donglai Wei, and William T Freeman. Video enhancement with task-oriented flow. IJCV, 2019. 2, 4, 5, 6, 7, 10, 12
-
-[30] Ce Liu and Deqing Sun. On bayesian adaptive video super resolution. TPAMI, 2014. 2, 6, 7, 10, 13
-
-[31] Peng Yi, Zhongyuan Wang, Kui Jiang, Junjun Jiang, and Jiayi Ma. Progressive fusion video super-resolution network via exploiting non-local spatio-temporal correlations. In ICCV, 2019. 1, 2, 6, 7, 10, 13
-
+[29] On bayesian adaptive video super resolution.
+Ce Liu and Deqing Sun.  
+Paper: https://ieeexplore.ieee.org/document/6549107
