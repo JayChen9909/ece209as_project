@@ -202,4 +202,3 @@ Takashi Isobe, Fang Zhu, and Shengjin Wang.
 
 [31] Peng Yi, Zhongyuan Wang, Kui Jiang, Junjun Jiang, and Jiayi Ma. Progressive fusion video super-resolution network via exploiting non-local spatio-temporal correlations. In ICCV, 2019. 1, 2, 6, 7, 10, 13
 
-![image](https://user-images.githubusercontent.com/104864551/167230583-e34f614e-fd1d-42c0-aa75-06ccad9ec4a2.png)
