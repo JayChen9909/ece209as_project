@@ -1,7 +1,8 @@
 
 # Colorfulness
 
-Github project from [piercus](https://github.com/piercus/colorfulness)
+Github project from [piercus](https://github.com/piercus/colorfulness).
+
 Node.js implementation of colorfulness using [node-opencv](https://github.com/peterbraden/node-opencv) binder for [OpenCV](http://opencv.org/).
 
 ## Related research studies
