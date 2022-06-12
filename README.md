@@ -167,7 +167,7 @@ Step 3:
 
 use the command to start a train.
 
-./tools/dist_train.sh \${CONFIG_FILE} \${GPU_NUM}
+./tools/dist_train.sh {CONFIG_FILE} {GPU_NUM}
 
 the example command is
 
