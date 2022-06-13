@@ -175,4 +175,6 @@ Step 3:
 
 Calculate the Overall Score by using the quation: Overall Score = PSNR * SSIM * Colorfulness / PI
 
+The config file has a lot of parameters. To run it one you computer, you need to
+change some of them.
  
