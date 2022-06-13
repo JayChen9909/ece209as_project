@@ -152,3 +152,14 @@ use the command to start a train.
 the example command is
 
 ./tools/dist_train.sh configs/restorers/basicvsr/basicvsr_reds4.py 1
+
+Step 4:
+Follow the instruction in PI_Calculate to calculate the PI values.
+
+Step5:
+Follow the instruction in colorfulness_calculate to calculate the colorfulness of each pic.
+
+Step6: 
+Calculate the Overall Score by using the quation: Overall Score = PSNR * SSIM * Colorfulness / PI.
+
+
