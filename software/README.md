@@ -154,7 +154,12 @@ the example command is
 ./tools/dist_train.sh configs/restorers/basicvsr/basicvsr_reds4.py 1
 
 
+
+
 Overall Score Calculation:
+
+
+
 
 Step 1:
 
